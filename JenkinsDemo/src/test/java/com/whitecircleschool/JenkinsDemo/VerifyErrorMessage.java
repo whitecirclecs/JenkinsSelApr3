@@ -38,7 +38,7 @@ public class VerifyErrorMessage {
 			System.out.println("Test Case Failed");
 		}
 		
-		driver.quit()
+		driver.quit();
 		
 	
 	}
